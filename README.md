@@ -6,6 +6,8 @@ Computer Science and Technology student at Tecnológico de Monterrey, passionate
 
 * 🌍 I'm based in Toluca, Estado de México, México.  
 * ✉️ You can contact me at [emisn1501@gmail.com](mailto:emisn1501@gmail.com)
+* 📚 I’m currently learning **SwiftUI**
+
 
 ### Skills  
 
