@@ -3,7 +3,7 @@ My name is emisanzmor
 ==================================================================
 
 Computer Science and Technology student at Tecnológico de Monterrey, passionate about personal projects. 
-Strong interest in iOS Development.
+**Strong interest in iOS Development**
 
 * 🌍 I'm based in Toluca, Estado de México, México.  
 * ✉️ You can contact me at [emisn1501@gmail.com](mailto:emisn1501@gmail.com)
