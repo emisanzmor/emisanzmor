@@ -12,7 +12,7 @@ My name is emisanzmor
 ---
 
 
-### 🛠️ Skills & Tools
+### 💻 Skills & Tools
 
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
