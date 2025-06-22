@@ -25,17 +25,17 @@ My name is emisanzmor
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://github.com/emisanzmor">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <a href="https://github.com/emisanzmor" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/emisanzmor/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/emisanzmor/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/emisanzmor">
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/emisanzmor" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:emisn1501@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
