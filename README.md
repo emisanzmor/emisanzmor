@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is emisanzmor  
 ==================================================================
 
-*Software Engineering* student at Tecnológico de Monterrey, passionate about personal projects. 
+*Software Engineering student at Tecnológico de Monterrey*, passionate about personal projects. 
 **Strong interest in Mobile Development**
 
 * 🌍 I'm based in Toluca, Estado de México, México.  
