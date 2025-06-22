@@ -2,10 +2,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is emisanzmor  
 ==================================================================
 
-*Software Engineering student at Tecnológico de Monterrey*, passionate about personal projects. 
-**Strong interest in Mobile Development**
+*Software Engineering student at Tecnológico de Monterrey*, passionate about crafting elegant and user-friendly mobile experiences.
 
-* 🌍 I'm based in Toluca, Estado de México, México.  
+* 🌍 I'm based in Toluca, Estado de México, México.
+* 💡 Passionate about personal projects, UI/UX design, and emerging technologies 
 * ✉️ You can contact me at [emisn1501@gmail.com](mailto:emisn1501@gmail.com)
 * 🌱 I’m currently learning **SwiftUI**
 
