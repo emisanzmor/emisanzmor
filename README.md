@@ -16,7 +16,7 @@ My name is emisanzmor
 
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java,cpp,php,html,css,mysql,swift,linux,vscode&theme=dark&perline=9" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,php,html,css,mysql,swift,linux,vscode,apple&theme=dark&perline=10" alt="My Skills" />
   </a>
 </p>
 
@@ -24,15 +24,18 @@ My name is emisanzmor
 
 ### 🌐 Connect with me
 
-<p align="left"> 
-  <a href="https://www.github.com/emisanzmor" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" /> 
-  </a> 
-  <a href="http://www.instagram.com/emisanzmor" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" width="32" height="32" alt="Instagram" /> 
+<p align="left">
+  <a href="https://github.com/emisanzmor" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/emisanzmor/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" width="36" height="36" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/emisanzmor" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:emisn1501@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
