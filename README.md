@@ -16,7 +16,14 @@ My name is emisanzmor
 
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java,cpp,php,html,css,js,react,mysql,swift,linux,vscode,apple&theme=dark&perline=10" alt="My Skills" />  </a>
+    <img src="https://skillicons.dev/icons?i=java,cpp,php,html,css,js&theme=dark&perline=6" alt="My Skills" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react,mysql,swift,linux,vscode,apple&theme=dark&perline=6" alt="My Skills" />
+  </a>
 </p>
 
 ---
