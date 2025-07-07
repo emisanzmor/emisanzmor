@@ -45,3 +45,9 @@ My name is emisanzmor
   </a>
 </p>
 
+---
+
+### 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emisanzmor&layout=compact&theme=tokyonight&langs_count=10)
+
