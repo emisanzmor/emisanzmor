@@ -8,7 +8,7 @@ My name is emisanzmor
 * 💡 Personal projects, UI/UX design, and emerging technologies 
 * ✉️ You can contact me at [emisn1501@gmail.com](mailto:emisn1501@gmail.com)
 * 🌱 I’m currently learning **SwiftUI**
-* 💼 Check out my portfolio at emisanzmor-portfolio.netlify.app
+* 💼 Check out my portfolio at https://emisanzmor-portfolio.netlify.app
 
 ---
 
