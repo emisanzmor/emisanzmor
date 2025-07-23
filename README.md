@@ -6,7 +6,7 @@ My name is emisanzmor
  
 * 🌍 I'm based in Toluca, Estado de México, México.
 * 💡 Personal projects, UI/UX design, and emerging technologies 
-* ✉️ You can contact me at [emisn1501@gmail.com](mailto:emisn1501@gmail.com)
+* ✉️ You can contact me at [emisanzmor@gmail.com](mailto:emisanzmor@gmail.com)
 * 🌱 I’m currently learning **SwiftUI**
 * 💼 Check out my portfolio at https://emisanzmor-portfolio.netlify.app
 
@@ -41,7 +41,7 @@ My name is emisanzmor
   <a href="https://www.instagram.com/emisanzmor" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:emisn1501@gmail.com">
+  <a href="mailto:emisanzmor@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
