@@ -23,7 +23,7 @@ My name is emisanzmor
 
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react,mysql,swift,linux,vscode,apple&theme=dark&perline=6" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=react,mysql,swift,python,vscode,apple&theme=dark&perline=6" alt="My Skills" />
   </a>
 </p>
 
