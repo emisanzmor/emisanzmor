@@ -1,3 +1,5 @@
+<img width="1584" height="196" alt="emisanzmor-banner" src="https://github.com/user-attachments/assets/27b550c1-b7ee-46c7-a2f7-4055af0d346e" />
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
 My name is emisanzmor  
 ==================================================================
