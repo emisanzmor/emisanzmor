@@ -6,7 +6,7 @@ My name is emisanzmor
 
 *Software Engineering student at Tecnológico de Monterrey*, passionate about crafting mobile experiences.
  
-* 🌍 I'm based in Toluca, Estado de México, México.
+* 🌍 I'm based in Monterrey, Nuevo León, México.
 * 💡 Personal projects, UI/UX design, and emerging technologies 
 * ✉️ You can contact me at [emisanzmor@gmail.com](mailto:emisanzmor@gmail.com)
 * 🌱 I’m currently learning **SwiftUI**
